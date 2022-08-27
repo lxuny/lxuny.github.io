@@ -60,8 +60,7 @@
                             .@###.                              .%=                                      
 </pre>
 <p align="right", style="color:#ffffff">Смерть — восхитительное укрытие для истомленных людей.</p>
-<p align="center", style="color:#ffffff">Members:</p>
-<p align="left", style="color:#ffffff">flaisy — DDos, Code</p>
-<p align="left", style="color:#ffffff">death — DDos</p>
+
+
 </body>
 </html>
